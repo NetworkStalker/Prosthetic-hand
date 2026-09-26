@@ -1,0 +1,10 @@
+# ไลบรารีหลัก — จำเป็นสำหรับรันโปรแกรม (ใช้พัฒนา/ทดสอบบน PC ทั่วไปได้ในโหมดจำลอง
+# หรือรันจริงบน Raspberry Pi 5 — ดูไฟล์ requirements-raspberrypi.txt เพิ่มเติมสำหรับฮาร์ดแวร์จริง)
+numpy
+scipy
+scikit-learn
+matplotlib
+
+# Firebase (ระบบสมาชิก + จัดเก็บข้อมูล)
+pyrebase4
+requests_toolbelt==0.9.1
